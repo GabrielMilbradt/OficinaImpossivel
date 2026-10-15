@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feira de Invenções Malucas</string>
+    <string name="titulo_feira">Feira de Invenções Malucas</string>
+
+    <string name="quantidade_prototipos">Protótipos na feira: %1$d</string>
+    <string name="ultimo_teste">Último teste: %1$s – %2$s</string>
+    <string name="hint_nome_invencao">Nome da invenção</string>
+    <string name="hint_nome_inventor">Nome do inventor</string>
+    <string name="cd_spinner_categoria">Seleção de categoria da invenção</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="botao_ver_grade">Ver em grade</string>
+    <string name="botao_ver_lista">Ver em lista</string>
+    <string name="erro_minimo_tres">Digite pelo menos 3 caracteres</string>
+    <string name="erro_categoria">Selecione uma categoria</string>
+    <string name="invencao_cadastrada">Invenção cadastrada!</string>
+    <string name="invencao_removida">Invenção removida</string>
+    <string name="titulo_remover">Remover invenção</string>
+    <string name="mensagem_remover">Deseja remover \"%1$s\" da feira?</string>
+    <string name="botao_remover">Remover</string>
+    <string name="botao_cancelar">Cancelar</string>
+    <string name="cd_imagem_invencao">Imagem da invenção %1$s</string>
+    <string name="descricao_padrao_usuario">Protótipo cadastrado por %1$s. A descrição técnica ainda está em segredo de laboratório.</string>
+
+    <string name="categoria_selecione">Selecione a categoria</string>
+    <string name="categoria_transporte">Transporte</string>
+    <string name="categoria_cozinha">Cozinha</string>
+    <string name="categoria_moda">Moda</string>
+    <string name="categoria_clima">Clima</string>
+    <string name="categoria_diversao">Diversão</string>
+    <string-array name="categorias">
+        <item>@string/categoria_selecione</item>
+        <item>@string/categoria_transporte</item>
+        <item>@string/categoria_cozinha</item>
+        <item>@string/categoria_moda</item>
+        <item>@string/categoria_clima</item>
+        <item>@string/categoria_diversao</item>
+    </string-array>
+
+    <string name="inv1_nome">Chapéu Climatizado Solar</string>
+    <string name="inv1_inventor">Prof. Raio Quente</string>
+    <string name="inv1_descricao">Chapéu com mini painel solar que liga um ventilador na aba. Quanto mais sol, mais vento na cabeça.</string>
+    <string name="inv2_nome">Torradeira Voadora</string>
+    <string name="inv2_inventor">Dona Migalha</string>
+    <string name="inv2_descricao">Torradeira com asas que leva o pão quentinho até a mesa. Ainda erra o pouso de vez em quando.</string>
+    <string name="inv3_nome">Guarda-Chuva Invertido</string>
+    <string name="inv3_inventor">Dr. Pingo</string>
+    <string name="inv3_descricao">Em vez de proteger da chuva, coleta a água para regar as plantas. Use com capa de chuva.</string>
+    <string name="inv4_nome">Sapato Foguete</string>
+    <string name="inv4_inventor">Cadu Turbina</string>
+    <string name="inv4_descricao">Tênis com propulsão a vapor para chegar na aula sempre cinco minutos antes do sinal.</string>
+    <string name="inv5_nome">Máquina de Bolhas Gigantes</string>
+    <string name="inv5_inventor">Bia Sabonete</string>
+    <string name="inv5_descricao">Produz bolhas de sabão do tamanho de uma geladeira. Diversão garantida e chão escorregadio.</string>
+
+    <string name="titulo_ficha">Ficha da Invenção</string>
+    <string name="rotulo_inventor">Inventor: %1$s</string>
+    <string name="rotulo_categoria">Categoria: %1$s</string>
+    <string name="botao_testar_prototipo">Testar protótipo</string>
+    <string name="botao_voltar_feira">Voltar à feira</string>
+    <string name="erro_dados_invalidos">Dados da invenção inválidos. Voltando à feira.</string>
+
+    <string name="titulo_camara">Câmara de Testes</string>
+    <string name="resultado_aprovada">Aprovada</string>
+    <string name="resultado_precisa_ajustes">Precisa de ajustes</string>
+    <string name="resultado_reprovada">Reprovada</string>
+    <string name="hint_observacao">Observação (mínimo 10 caracteres)</string>
+    <string name="botao_confirmar_teste">Confirmar teste</string>
+    <string name="botao_rever_ficha">Rever ficha</string>
+    <string name="botao_encerrar_avaliacao">Encerrar avaliação</string>
+    <string name="erro_resultado">Selecione o resultado do teste</string>
+    <string name="erro_minimo_dez">Digite pelo menos 10 caracteres</string>
+    <string name="resultado_registrado">Resultado registrado: %1$s</string>
+    <string name="cd_selo">Selo de resultado: %1$s</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_primaria">#6A1B9A</color>
+    <color name="cor_primaria_escura">#4A148C</color>
+    <color name="cor_secundaria">#FF9800</color>
+    <color name="cor_fundo">#F6F0FA</color>
+    <color name="cor_texto">#212121</color>
+    <color name="cor_texto_suave">#616161</color>
+    <color name="white">#FFFFFF</color>
+</resources>

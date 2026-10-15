@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OficinaImpossivel" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/cor_primaria</item>
+        <item name="colorPrimaryVariant">@color/cor_primaria_escura</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/cor_secundaria</item>
+        <item name="colorOnSecondary">@color/cor_texto</item>
+        <item name="android:windowBackground">@color/cor_fundo</item>
+        <item name="android:statusBarColor">@color/cor_primaria_escura</item>
+    </style>
+</resources>
